@@ -15,7 +15,7 @@ https://github.com/BlockChain-Station/web3.unity/releases
 ## Contributing
 - Have questions? Say hi on [Discord](https://discord.gg/seaRMnETNm)!
 
-## ChainSafe Security Policy
+## BCS Security Policy
 
 ### Reporting a Security Bug
 We take all security issues seriously, if you believe you have found a security issue within a BCS SDK
@@ -23,4 +23,4 @@ project please notify us immediately. If an issue is confirmed, we will take all
 to ensure a statement and patch release is made in a timely manner.
 
 Please email us a description of the flaw and any related information (e.g. reproduction steps, version) to
-[security at chainsafe dot io](mailto:developer@blockchainstation.io).
+[security at Blockchation Station dot io](mailto:developer@blockchainstation.io).
